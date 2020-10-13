@@ -3,7 +3,7 @@ A place for you to file issues/bugs that you've found on Scott Hanselman's blog 
 
 ## What is this?
 
-I have a blog at https://hanselman.com/blog that I've run for almost 20 years.0 
+I have a blog at https://hanselman.com/blog that I've run for almost 20 years.
 
 Recently it moved from being: 
 
